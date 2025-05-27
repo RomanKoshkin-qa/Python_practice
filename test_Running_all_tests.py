@@ -1,4 +1,4 @@
-from homework import *
+from test_homework import *
 
 test_greeting()
 test_rectangle()
